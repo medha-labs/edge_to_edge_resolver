@@ -77,4 +77,4 @@ Contributions are welcome!
 If you find a bug or want to suggest a feature, please open an issue or submit a pull request. [[Contribute](CONTRIBUTING.md)].
 
 ### Code Contributors
-[![Contributors](https://contrib.rocks/image?repo=vnegi1011/edge_to_edge_resolver)](https://github.com/medha-labs/edge_to_edge_resolver/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=medha-labs/edge_to_edge_resolver)](https://github.com/medha-labs/edge_to_edge_resolver/graphs/contributors)
