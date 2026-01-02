@@ -70,6 +70,8 @@ class MyHomePage extends StatelessWidget {
 
 <img src="https://raw.githubusercontent.com/medha-labs/edge_to_edge_resolver/master/example/demo/img3.png" width="300"/> <img src="https://raw.githubusercontent.com/medha-labs/edge_to_edge_resolver/master/example/demo/img4.png" width="300"/>
 
+## License
+Distributed under the MIT License. See [[LICENSE](LICENSE)] for more information.
 
 ## Contributing
 

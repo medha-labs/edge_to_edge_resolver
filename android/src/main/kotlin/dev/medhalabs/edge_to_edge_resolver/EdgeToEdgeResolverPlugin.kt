@@ -1,4 +1,4 @@
-package com.example.edge_to_edge_resolver
+package dev.medhalabs.edge_to_edge_resolver
 
 import android.app.Activity
 import android.os.Build

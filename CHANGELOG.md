@@ -1,3 +1,6 @@
+## 1.0.1
+* Minor corrections
+
 ## 1.0.0
 * Updated repository url
 

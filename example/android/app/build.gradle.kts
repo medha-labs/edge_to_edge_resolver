@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.edge_to_edge_resolver_example"
+    namespace = "dev.medhalabs.edge_to_edge_resolver_example"
     compileSdk = 35
     ndkVersion = "29.0.13113456"
 
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.edge_to_edge_resolver_example"
+        applicationId = "dev.medhalabs.edge_to_edge_resolver_example"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
